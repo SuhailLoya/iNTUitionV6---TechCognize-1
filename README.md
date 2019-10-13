@@ -55,7 +55,7 @@ You can see that the EAR value drops whenever the eye closes. We can train a sim
        EYE_STATUS = 'CLOSE'
     
 ### Mouth-Aspect-Ratio (MAR)
-Highly inspired by the EAR feature, I tweaked the formula a little bit to get a metric that can detect open/closed mouth. Unoriginal - but it works.
+Highly inspired by the EAR feature, we tweaked the formula a little bit to get a metric that can detect open/closed mouth. Unoriginal - but it works.
 
 <div align="center">
 <img src="images/MAR-final.jpg" width=700 height=300/>
